@@ -34,6 +34,9 @@
 - OWASP ZAP
 -> https://www.zaproxy.org/
 
+- SageMath
+-> https://wiki.archlinux.jp/index.php/SageMath
+
 ## Blowser 
 - firefox
 
